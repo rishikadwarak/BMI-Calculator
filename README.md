@@ -1,1 +1,3 @@
-BMI Calculator built using Flutter widgets
+# BMI-Calculator
+
+BMI Calculator Mobile app built using Flutter widgets.
